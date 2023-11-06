@@ -1,12 +1,12 @@
 <snippet>
   <content><![CDATA[
-private void OnCollisionExit()
+private void OnPostRender()
 {
   $1
 }
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>uoncollisionexit</tabTrigger>
+  <tabTrigger>uonpostrender</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <scope>source.cs</scope>
 </snippet>
