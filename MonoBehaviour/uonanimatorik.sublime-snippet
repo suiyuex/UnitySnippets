@@ -2,7 +2,7 @@
   <content><![CDATA[
 private void OnAnimatorIK(int ${1:layerIndex})
 {
-  $2
+    $2
 }
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

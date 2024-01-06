@@ -2,7 +2,7 @@
   <content><![CDATA[
 private void OnRenderImage(RenderTexture ${1:src}, RenderTexture ${2:dest})
 {
-  $3
+    $3
 }
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

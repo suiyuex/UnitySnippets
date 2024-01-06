@@ -2,7 +2,7 @@
   <content><![CDATA[
 private void OnTriggerExit2D(Collider2D ${1:other})
 {
-  $2
+    $2
 }
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

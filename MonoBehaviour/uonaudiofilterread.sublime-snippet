@@ -2,7 +2,7 @@
   <content><![CDATA[
 private void OnAudioFilterRead(float[] ${1:data}, int ${2:channels})
 {
-  $3
+    $3
 }
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

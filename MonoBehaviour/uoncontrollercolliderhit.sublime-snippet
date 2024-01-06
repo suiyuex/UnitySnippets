@@ -2,7 +2,7 @@
   <content><![CDATA[
 private void OnControllerColliderHit(ControllerColliderHit ${1:hit})
 {
-  $2
+    $2
 }
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
